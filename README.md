@@ -11,21 +11,22 @@
 <!-- medium -->
 <div align="center">
 <a href="https://medium.com/@tina0757023.bt07" target="_blank">
-      <img src="https://img.shields.io/badge/-Medium-black" />
+      <img src="https://img.shields.io/badge/-Medium-lightgrey"/>
 </a>
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/kuo-ting-han-3b045ab5/" target="_blank">
-      <img src="https://img.shields.io/badge/-Linkedin-blue" />
+      <img src="https://img.shields.io/badge/-Linkedin-blue"/>
 </a>
 <!-- Mailto -->
 <a href="mailto:tina0757023.bt07@nycu.edu.tw" target="_blank">
-      <img src="https://img.shields.io/badge/-Mail-red" />
+      <img src="https://img.shields.io/badge/-Mail-red"/>
 </a>
 <!-- CodePen -->
 <a href="https://codepen.io/your-work" target="_blank">
-      <img src="https://img.shields.io/badge/-CodePen-white" />
+      <img src="https://img.shields.io/badge/-CodePen-white"/>
 </a>
 </div>
+<hr/>
 <!-- **thk61159/thk61159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently a PhD student study in neuroscience.
