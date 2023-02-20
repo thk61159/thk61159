@@ -29,8 +29,8 @@
 <hr/>
 <!-- **thk61159/thk61159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently a student study in neuroscience.
-- 🌱 I’m currently learning HTML/CSS/JavaScript.
+- 🔭 I’m currently learn to build web API, algorithm, and internet principles.
+- 🌱 I’m currently learning HTML/CSS/JavaScript, nodejs, mogoDB, MySQL.
 - 📫 How to reach me: click the tags to contact me!!
 - 😄 Pronouns: 👩🏻‍💻 💃🏻 🐈 🎮 🎤 🎧
 <!-- - ⚡ Fun fact: ... -->
