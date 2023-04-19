@@ -1,8 +1,9 @@
+### I AM THK
 ### Since September 2022, I have been actively honing my web development skills through a BootCamp training program. This intensive training has enabled me to develop a high level of proficiency in creating web pages that incorporate advanced features such as login systems, third-party logins, and database CRUD operations. I have utilized technologies such as node.js/express.js, MongoDB, and MySQL to perform both client-side and server-side rendering.
 
-As part of the BootCamp program, I had the opportunity to work as a full-stack engineer on a team project, which involved the development of a social networking website using React and Node. This experience has allowed me to enhance my collaborative skills and develop the ability to work effectively within a team environment.
+### As part of the BootCamp program, I had the opportunity to work as a full-stack engineer on a team project, which involved the development of a social networking website using React and Node. This experience has allowed me to enhance my collaborative skills and develop the ability to work effectively within a team environment.
 
-Based on these experiences and the skills I have acquired, I feel confident in my ability to function as a productive team player and pursue a fulfilling career as a backend engineer in the upcoming year.
+### Based on these experiences and the skills I have acquired, I feel confident in my ability to function as a productive team player and pursue a fulfilling career as a backend engineer in the upcoming year.
 
 <!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/108649296/203933626-38547978-2702-492f-8333-4748cfd9b26a.gif) -->
 <p align="center">
