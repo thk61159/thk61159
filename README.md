@@ -1,5 +1,5 @@
 ### I AM THK
-I thrive on challenges, whether they are complex problems or novel experiences. My approach to problem-solving involves utilizing scientific research methods to deconstruct and resolve issues. I am highly goal-oriented and have a talent for quickly acquiring and applying new knowledge."
+Currently, I work as a backend software engineer at a company specializing in electromechanical and system integration, as well as IoT integration. I primarily use node.js for development and frequently utilize frameworks and libraries such as Express, NestJS, MongoDB, SQL-DB, and Docker. I have a keen interest in system design, algorithms, and containers. I excel at learning and applying new technologies.
 
 <!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/108649296/203933626-38547978-2702-492f-8333-4748cfd9b26a.gif) -->
 <p align="center">
